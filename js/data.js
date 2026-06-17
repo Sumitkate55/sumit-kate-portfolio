@@ -10,7 +10,7 @@ const projects = [
     description: "An AI-based resume analysis platform that extracts technical skills from resumes using NLP and matches candidates with industry roles. Includes resume scoring, skill gap analysis, and interactive dashboards.",
     tags: ["Python", "Django", "MongoDB", "spaCy NLP", "Chart.js"],
     github: "https://github.com/Sumitkate55/smarthire-ai",
-    live: "",
+    live: "https://smarthire-ai-1-ftpv.onrender.com",
   },
   {
     icon: "📅",
