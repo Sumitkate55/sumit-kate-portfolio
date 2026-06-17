@@ -1,6 +1,6 @@
 # Sumit Kate — Personal Portfolio
 
-A clean, dark-themed developer portfolio built with pure HTML, CSS, and JavaScript. No frameworks needed — just open and deploy.
+A premium, obsidian-themed cyber developer portfolio built with pure HTML, CSS, and JavaScript. Features modern typography (Plus Jakarta Sans & JetBrains Mono), neon cyan & indigo accents, pulsing active system status indicators, glowing project cards, and smooth micro-interactions. No frameworks needed — just open and deploy.
 
 ## 🚀 Quick Start
 
