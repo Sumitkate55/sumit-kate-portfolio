@@ -21,7 +21,7 @@ sumit-portfolio/
 │   ├── data.js         ← ✏️  Edit this to add projects
 │   └── main.js         ← Interactions & logic
 ├── assets/
-│   └── resume.pdf      ← ✏️  Replace with your actual resume PDF
+│   └── resume.docx     ← ✏️  Replace with your actual resume document
 └── README.md
 ```
 
@@ -45,7 +45,7 @@ Open `js/data.js` and add an object to the `projects` array:
 ```
 
 ### Update Resume
-Replace `assets/resume.pdf` with your updated PDF — keep the same filename.
+Replace `assets/resume.docx` with your updated document — keep the same filename.
 
 ### Update Social Links
 In `index.html`, search for `https://github.com/` and `https://linkedin.com/` and replace with your actual profile URLs.
@@ -81,7 +81,7 @@ In `index.html`, search for `https://github.com/` and `https://linkedin.com/` an
 | Colors | `css/style.css` → `:root` variables |
 | Name / bio text | `index.html` directly |
 | Projects | `js/data.js` |
-| Resume PDF | `assets/resume.pdf` |
+| Resume | `assets/resume.docx` |
 | Social links | `index.html` — search `github.com` / `linkedin.com` |
 | Contact form | `js/main.js` → `FORMSPREE_URL` |
 

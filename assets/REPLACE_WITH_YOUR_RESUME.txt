@@ -1,1 +1,1 @@
-Replace this file with your actual resume PDF. Keep the filename as 'resume.pdf'
+Replace this file with your actual resume document. Keep the filename as 'resume.docx'
