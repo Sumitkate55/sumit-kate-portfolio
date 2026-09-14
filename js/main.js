@@ -104,8 +104,9 @@ document.addEventListener('DOMContentLoaded', () => {
   observeReveal();
 
   // Add reveal class to static sections
-  document.querySelectorAll('.about-text, .about-stats, .skill-group, .timeline-item, .stat-card').forEach(el => {
+  document.querySelectorAll('.about-text, .about-stats, .skill-group, .timeline-item, .stat-card, .experience-card').forEach(el => {
     el.classList.add('reveal');
   });
   observeReveal();
 });
+
